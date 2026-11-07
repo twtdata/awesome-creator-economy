@@ -175,6 +175,7 @@ Tools to track audience and revenue performance.
 - [PostHog](https://posthog.com) - Product analytics with session recording.
 - [Google Analytics](https://analytics.google.com) - Free web analytics from Google.
 - [Mixpanel](https://mixpanel.com) - Product analytics for digital products.
+- [SnapDataHub](https://snapdatahub.com/) - Public Snapchat creator stats and Spotlight view benchmarks by creator size and niche.
 
 ## AI Tools for Content Creators
 
